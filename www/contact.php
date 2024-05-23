@@ -3,14 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script>  function openMenu() {
-  let nav = document.querySelectorAll("nav")
-  nav.forEach(element => {
 
-      element.classList.toggle("open")
-  });
-} 
-</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <link href="https://fonts.googleapis.com/css?family=Raleway:200,100,400" rel="stylesheet" type="style.css" /> -->
@@ -28,16 +21,16 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 
-
-<link href="https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Ephesis&display=swap" rel="stylesheet">
-  
 </head>
 <body>
+<div class="demo">
+    
+    <h2 class="byline" id="byline">Asile Avany</h2>
+  </div>
 
       <div class="contact">
            
-            <h4 class="info fst-italic fs-1">Asile d'Avany</h4>
+            
             <p class="mb-0 fst-italic "> Pour toute information ou signalement, merci de nous contacter via l'un des réseaux suivant</p>
 
 
