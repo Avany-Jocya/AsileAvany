@@ -2,7 +2,7 @@
 
 <ul class="cards">
   <li>
-    <a href="" class="card">
+    <a class="card">
       <img src="/public/images/Black.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
@@ -18,7 +18,7 @@
     </a>      
   </li>
   <li>
-    <a href="" class="card">
+    <a class="card">
       <img src="/public/images/barbara.jpg" class="card__image" alt="" />
       <div class="card__overlay">        
         <div class="card__header">
@@ -34,7 +34,7 @@
     </a>
   </li>
   <li>
-    <a href="" class="card">
+    <a class="card">
       <img src="/public/images/Nolann.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
@@ -50,7 +50,7 @@
     </a>
   </li>
   <li>
-    <a href="" class="card">
+    <a class="card">
       <img src="/public/images/camille.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
@@ -66,7 +66,7 @@
     </a>
   </li>    
   <li>
-    <a href="" class="card">
+    <a class="card">
       <img src="/public/images/kassandra.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
@@ -82,7 +82,7 @@
     </a>
   </li>    
   <li>
-    <a href="" class="card">
+    <a class="card">
       <img src="/public/images/madina.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
@@ -98,7 +98,7 @@
     </a>
   </li>    
   <li>
-    <a href="" class="card">
+    <a class="card">
       <img src="/public/images/Nana.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
@@ -114,7 +114,7 @@
     </a>
   </li>    
   <li>
-    <a href="" class="card">
+    <a class="card">
       <img src="/public/images/alicia.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
