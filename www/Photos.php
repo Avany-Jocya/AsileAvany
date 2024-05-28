@@ -19,6 +19,22 @@
   </li>
   <li>
     <a class="card">
+      <img src="/public/images/Orlane.jpg" class="card__image" alt="" />
+      <div class="card__overlay">
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                 
+          <img class="card__thumb" src="/public/images/logo.jpg" alt="" />
+          <div class="card__header-text">
+            <h3 class="card__title">Orlane (Lookie)</h3>
+            <span class="card__status">Ma compère</span>
+          </div>          
+        </div>
+        <p class="card__description">...</p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a class="card">
       <img src="/public/images/barbara.jpg" class="card__image" alt="" />
       <div class="card__overlay">        
         <div class="card__header">
